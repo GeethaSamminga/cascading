@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color:blue;
+  }
+
+        p{
+            color:red;
+         text-align: center;
+         background-color:aliceblue;  
+        }
+        li{
+            color:green;
+        }h2{
+            background-color: brown;
+        }
